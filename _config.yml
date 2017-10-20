@@ -1,5 +1,5 @@
-name: Awesome Research Group
-url: http://awesome.example.edu
+name: LEVE - Laboratório de Estudos em Veículos Robóticos de Exterior
+url: http://www.fem.unicamp.br/~leve
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
 
@@ -12,10 +12,8 @@ permalink: /blog/:year/:month/:day/:title.html
 # Sections on the "people" page.
 roles:
     - {key: faculty, name: Faculty}
-    - {key: staff, name: Staff}
-    - {key: postdoc, name: Researchers}
     - {key: grad, name: Graduate Students}
-    - {key: collab, name: Collaborators}
+    # - {key: collab, name: Collaborators}
     - {key: alum, name: Alumni}
 
 # Number of news stories on the front page.

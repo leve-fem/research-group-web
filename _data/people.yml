@@ -1,29 +1,28 @@
-profx:
-    display_name: "Professor X"
-    webpage: "http://en.wikipedia.org/wiki/Professor_X"
-    github: profx
+ely:
+    display_name: "Professor Ely Paiva"
+    webpage: "www.fem.unicamp.br/~ely"
     role: faculty
     bio: |
-        Professor X is the leader and founder of X-Men. 
-melody:
-    display_name: "Scott Summers"
-    webpage: "http://en.wikipedia.org/wiki/Cyclops_(comics)"
-    role: staff
+        Professor Ely is the head of the LEVE laboratory.
+rafael:
+    display_name: "Rafael Cordeiro"
+    webpage: "www.google.com"
+    role: alum
     bio: |
-        Scott, also known as Cyclops, shoots lasers from his eyes, which makes him the perfect administrative assistant.
+        PhD
 
-wolverine:
-    display_name: "Wolverine"
-    webpage: "http://en.wikipedia.org/wiki/Wolverine_%28comics%29"
-    github: wolverine
-    role: postdoc
-
-storm:
-    display_name: "Storm"
-    webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
+henrique:
+    display_name: "Henrique"
+    webpage: "www.google.com"
     role: grad
 
-jean:
-    display_name: "Jean Grey"
-    role: alum
-    bio: "Ph.D., 2013. Now at Microsoft Research."
+randerson:
+    display_name: "Randerson"
+    webpage: "www.google.com"
+    role: grad
+
+lucas:
+    display_name: "Lucas Casanova Nogueira"
+    webpage: "https://www.linkedin.com/in/lukscasanova/"
+    github: lukscasanova
+    role: grad
