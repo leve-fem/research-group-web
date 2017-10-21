@@ -12,7 +12,7 @@
     <body>
         <div class="container">
           <div class="header">
-            <ul class="nav nav-pills pull-right">
+            <ul class="nav nav-pills nav-justified">
               {% assign shorturl = page.url | replace:'index.html','' %}
               {% for item in site.navigation %}
                 <li {% if item.link == shorturl %}class="active"{% endif %}>
@@ -21,13 +21,17 @@
                   </a>
                 </li>
               {% endfor %}
-            </ul>
-            <a href="{{ site.base }}/">
-                <img src="{{ site.base }}/img/logo.png"
-                    srcset="{{ site.base }}/img/logo@2x.png 2x"
-                    alt="Awesome" id="logo">
-            </a>
+            </ul> 
           </div>
+          <div class="container" align="middle">
+          <a href="{{ site.base }}/" align="middle">
+               <img src="{{ site.base }}/img/logo.png"
+                   srcset="{{ site.base }}/img/logo.png 2x"
+                   alt="LEVE" id="logo" align="middle">
+           </a>
+
+          </div>
+           
 
           {% comment %}Liquid is sort of terrible! I think "!= true" is the
           only way to do negation?{% endcomment %}
@@ -39,10 +43,9 @@
 
           <div class="footer">
             <p>
-              <a href="http://dept.example.edu/">Illustrious Department</a>
+              <a href="http://www.fem.unicamp.br/">Faculdade de Engenharia Mecânica</a>
               at the
-              <a href="http://example.edu/">University of
-                Example</a>
+              <a href="http://www.unicamp.br">Campinas State University</a>
             </p>
           </div>
 
