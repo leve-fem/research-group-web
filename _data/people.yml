@@ -6,10 +6,12 @@ ely:
         Professor Ely is the head of the LEVE laboratory.
 rafael:
     display_name: "Rafael Cordeiro"
-    webpage: "http://www.google.com"
+    webpage: "https://www.researchgate.net/profile/Rafael_De_Angelis_Cordeiro2"
     role: alum
     bio: |
-        PhD
+        Rafael A. Cordeiro was born in Brazil, in 1986, and received  the M.S. degree in mechanical engineering and the B.S. degree in control and automation engineering from the University of Campinas (Unicamp), Brazil, in 2013 and 2010 respectively. 
+        He completed internship programs at the École Nationale Supérieure de Mécanique et des Microtechniques, Besançon, France, in 2008, at the Université de Technologie de Compiègne, France, in 2015, and at the Instituto Superior Técnico, Lisbon, Portugal, in 2012 and 2016. 
+        In 2017, he finished his Ph.D. studies in electrical engineering at the Unicamp. His current research interests include autonomous and intelligent vehicles, vehicle dynamics, state observers, path tracking and nonlinear control.
 
 henrique:
     display_name: "Henrique Vieira"
