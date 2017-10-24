@@ -1,24 +1,24 @@
 ely:
     display_name: "Professor Ely Paiva"
-    webpage: "www.fem.unicamp.br/~ely"
+    webpage: "http://www.fem.unicamp.br/~ely"
     role: faculty
     bio: |
         Professor Ely is the head of the LEVE laboratory.
 rafael:
     display_name: "Rafael Cordeiro"
-    webpage: "www.google.com"
+    webpage: "http://www.google.com"
     role: alum
     bio: |
         PhD
 
 henrique:
-    display_name: "Henrique"
-    webpage: "www.google.com"
+    display_name: "Henrique Vieira"
+    webpage: "http://www.google.com"
     role: grad
 
 randerson:
-    display_name: "Randerson"
-    webpage: "www.google.com"
+    display_name: "Randerson Lemos"
+    webpage: "http://www.google.com"
     role: grad
 
 lucas:

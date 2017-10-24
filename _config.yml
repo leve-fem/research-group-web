@@ -1,5 +1,5 @@
 name: LEVE - Laboratório de Estudos em Veículos Robóticos de Exterior
-url: http://www.fem.unicamp.br/~leve
+url: http://www.fem.unicamp.br/
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
 
@@ -20,7 +20,7 @@ roles:
 front_page_news: 8
 
 # Base pathname for links.
-base: ''
+base: '/~leve'
 
 # Navigation bar links.
 navigation:
