@@ -1,6 +1,6 @@
 ely:
     display_name: "Professor Ely Paiva"
-    webpage: "http://www.fem.unicamp.br/~ely"
+    webpage: "http://www.fem.unicamp.br/~elypaiva"
     role: faculty
     bio: |
         Professor Ely is the head of the LEVE laboratory.
@@ -15,16 +15,20 @@ rafael:
 
 henrique:
     display_name: "Henrique Vieira"
-    webpage: "http://www.google.com"
+    webpage: "http://lattes.cnpq.br/5837351407395710"
     role: grad
-
+    bio: |
+        Has a Bachelor degree in Mechatronics Engineering from Amazonas State University (2012), Master's in Electrical Engineering from Campinas State University. Currently pursuing a PhD in Mechanical Engineering in Campinas State University in the area of nonlinear systems control with applications in a autonomous airship. 
+        
 randerson:
     display_name: "Randerson Lemos"
-    webpage: "http://www.google.com"
-    role: grad
+    webpage: "https://www.linkedin.com/in/randersonlemos/"
+    role: alum
 
 lucas:
     display_name: "Lucas Casanova Nogueira"
     webpage: "https://www.linkedin.com/in/lukscasanova/"
     github: lukscasanova
     role: grad
+    bio: |
+        Born in Manaus, has a Computer Engineer degree from Campinas State University and is now working towards a Master's in Mechanical Engineering. Likes robots and soccer a lot.
