@@ -3,7 +3,7 @@ ely:
     webpage: "http://www.fem.unicamp.br/~elypaiva"
     role: faculty
     bio: |
-        Professor Ely is the head of the LEVE laboratory.
+        Professor Ely is the head of the LEVE laboratory. His main research interests are: Control and navigation of mobile robots, Unmanned Air Vehicles (UAV's), electric cars, airships and non-linear control. He is currently doing a Post-Doc in Concordia University in Canada.
 rafael:
     display_name: "Rafael Cordeiro"
     webpage: "https://www.researchgate.net/profile/Rafael_De_Angelis_Cordeiro2"
@@ -24,6 +24,7 @@ randerson:
     display_name: "Randerson Lemos"
     webpage: "https://www.linkedin.com/in/randersonlemos/"
     role: alum
+    bio: Randerson is a Mechanical Engineer who likes to program. He obtained his Masters Degree with LEVE working on a laser-based algorithm for autonomous navigation of orchards environment.
 
 lucas:
     display_name: "Lucas Casanova Nogueira"
